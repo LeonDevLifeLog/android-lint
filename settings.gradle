@@ -1,0 +1,2 @@
+include ':sample', ':androidlint'
+rootProject.name='android-lint'
